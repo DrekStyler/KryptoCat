@@ -1,19 +1,5 @@
 {
-  "name": "crytokitty",
-  "version": "1.0.0",
-  "description": "Sick app for sick kitties",
-  "main": "index.js",
-  "scripts": {
-    "test": "tester"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/DrekStyler/KryptoCat.git"
-  },
-  "author": "drekstyler",
-  "license": "UNLICENSED",
-  "bugs": {
-    "url": "https://github.com/DrekStyler/KryptoCat/issues"
-  },
-  "homepage": "https://github.com/DrekStyler/KryptoCat#readme"
+  "dependencies": {
+    "solc": "^0.4.17"
+  }
 }
